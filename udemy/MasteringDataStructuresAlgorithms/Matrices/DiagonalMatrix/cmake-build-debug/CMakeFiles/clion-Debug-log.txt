@@ -1,0 +1,4 @@
+"D:\Program Files\JetBrains\CLion 2024.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion 2024.2.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S H:\Documents\materi-pembelajaran\cLanguage\udemy\MasteringDataStructuresAlgorithms\Matrices\DiagonalMatrix -B H:\Documents\materi-pembelajaran\cLanguage\udemy\MasteringDataStructuresAlgorithms\Matrices\DiagonalMatrix\cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: H:/Documents/materi-pembelajaran/cLanguage/udemy/MasteringDataStructuresAlgorithms/Matrices/DiagonalMatrix/cmake-build-debug

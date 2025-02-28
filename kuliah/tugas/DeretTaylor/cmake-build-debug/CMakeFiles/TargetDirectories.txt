@@ -1,0 +1,3 @@
+H:/OneDrive/Documents/materi-pembelajaran/cLanguage/kuliah/tugas/DeretTaylor/cmake-build-debug/CMakeFiles/DeretTaylor.dir
+H:/OneDrive/Documents/materi-pembelajaran/cLanguage/kuliah/tugas/DeretTaylor/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/OneDrive/Documents/materi-pembelajaran/cLanguage/kuliah/tugas/DeretTaylor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

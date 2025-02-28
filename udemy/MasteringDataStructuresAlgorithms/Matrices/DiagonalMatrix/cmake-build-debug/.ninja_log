@@ -1,0 +1,4 @@
+# ninja log v6
+168	419	7607939225985269	DiagonalMatrix.exe	5a00d26508198b9d
+5	380	7607942889357437	build.ninja	1f44f69aa5cd70a9
+8	167	7607939224393018	CMakeFiles/DiagonalMatrix.dir/lower_triangular.c.obj	c8ecb905103467ad

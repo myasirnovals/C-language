@@ -1,0 +1,3 @@
+D:/Documents/materi-pembelajaran/cLanguage/website/gamelab/belajar-dasar-c/cmake-build-debug/CMakeFiles/belajar_dasar_c.dir
+D:/Documents/materi-pembelajaran/cLanguage/website/gamelab/belajar-dasar-c/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/materi-pembelajaran/cLanguage/website/gamelab/belajar-dasar-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
